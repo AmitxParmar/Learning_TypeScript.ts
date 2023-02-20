@@ -1,0 +1,12 @@
+Type Aliases
+
+TypeScript allows us to declare type aliases by using the type keyword:
+
+type PrimitiveArray = Array<string|number|boolean>;
+type MyNumber = number;
+type NgScope = ng.IScope;
+type Callback = () => void;
+
+Type aliases are exactly the same as their original types;
+they are simply alternative names.
+Type aliases can help us to make our code more readable.

@@ -15,3 +15,4 @@ Personal challenge to post a note about TypeScript in my free time.
 | 004 | [Function Parameters and Return](Day4/)|
 | 005 | [Interfaces](day05/)|
 | 006 | [Tuples, Enums, Union](day06/)|
+| 007 | [Throwing Error type: unknown](day06/)|
